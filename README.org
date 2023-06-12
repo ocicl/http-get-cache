@@ -1,0 +1,10 @@
+* http-get-cache
+
+Common Lisp library for caching HTTP GET responses
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/michaeljforster/http-get-cache.git   |
+| commit  | 463f845  |
+| systems | http-get-cache |
+|---------+-------------------------------------------|
+
